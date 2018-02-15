@@ -29,7 +29,7 @@ started``] guide. Documentation is published in {docs}/htmlsingle/[HTML],
 {docs}/pdf/spring-boot-reference.pdf[PDF] and {docs}/epub/spring-boot-reference.epub[EPUB]
 formats.
 
-Here is a quick teaser of a complete Spring Boot application in Java:
+#Here is a quick teaser of a complete Spring Boot application in Java:
 
 [source,java,indent=0]
 ----
